@@ -99,8 +99,8 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
                   <GalleryVerticalEnd className="size-4" />
                 </div>
                 <div className="flex flex-col gap-0.5 leading-none">
-                  <span className="font-semibold">Otakudesu Natee</span>
-                  <span className="">v2.0.0</span>
+                  <span className="font-semibold">Otakunimeee</span>
+                  <span className="">v1.0.0</span>
                 </div>
               </div>
             </SidebarMenuButton>
