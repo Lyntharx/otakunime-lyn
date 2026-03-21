@@ -26,7 +26,7 @@ export default function Footer() {
           <div className="col-span-2 sm:col-span-2 md:col-span-1">
             <Link href="/" className="mb-3 flex items-center gap-2">
               <FaBolt className="text-xl text-accent" />
-              <span className="text-lg font-bold tracking-tight">OtakuDesu</span>
+              <span className="text-lg font-bold tracking-tight">OtakuNime</span>
             </Link>
             <p className="max-w-xs text-sm leading-relaxed text-muted-foreground">
               The best place to watch anime, read comics, and discover movies online.
